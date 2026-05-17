@@ -22,12 +22,13 @@ This project eliminates "AI Drift" by separating high-context planning from zero
 - SKILL.md: The formal instruction set for the Gemini CLI.
 - SPEC.md: The technical blueprint and state tracker.
 - LORE.md: The chronicle of the project's development and the "Froggy" audits.
-- eferences/: Documentation on the Rensin methodology.
+- References/: Documentation on the Rensin methodology.
 
 ## 🚀 How to Use
 
 Trigger the workflow using one of the following commands:
-- un-goldfish-workflow
+- 
+un-goldfish-workflow
 - start-elephant-planning
 - goldfish-method-execute
 
