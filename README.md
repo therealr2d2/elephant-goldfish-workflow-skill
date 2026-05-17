@@ -21,7 +21,6 @@ This project eliminates "AI Drift" by separating high-context planning from zero
 
 - SKILL.md: The formal instruction set for the Gemini CLI.
 - SPEC.md: The technical blueprint and state tracker.
-- LORE.md: The chronicle of the project's development and the "Froggy" audits.
 - References/: Documentation on the Rensin methodology.
 
 ## 🚀 How to Use
